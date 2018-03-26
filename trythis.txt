@@ -4,17 +4,7 @@ author: Chris Achenbach
 date: 26 March 2018
 ---
 
-<center>
 
-# The Observation Game!
-
-
-Chris Achenbach
-
-
-26 March 2018
-
-</center>
 
 ---
 
@@ -183,3 +173,6 @@ easier than organizing a problem in such a way that it becomes a solvable.
 </details>
 
 ---
+
+
+<style>header {text-align: center;}</style>
