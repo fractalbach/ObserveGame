@@ -19,16 +19,13 @@ Chris Achenbach
 ---
 
 <abstract>
-**Summary**: The Observation Game is a game that can be played anywhere in the world, at almost any time.  All you need is a 
-brain[^note], and some creativity.
+**Summary**: The Observation Game is a game that can be played anywhere in the world, at almost any time.  All you need is a brain and some creativity.
 
 </abstract>
 
 
 ---
 
-
-[^note]: I'm sure you could still be playing this game without a brain. but I imagine it feels rather empty.  It also helps to play this game in areas with lots of people, but works better with people who you *don't* know.
 
 
 ## Why play?
@@ -185,23 +182,4 @@ easier than organizing a problem in such a way that it becomes a solvable.
 
 </details>
 
-
-
-
-
-
-
-
-
-<style>
-.footnoteRef {
-	display inline-block;
-}
-.footnoteRef sup::before {
-	content: "[";
-}
-.footnoteRef sup::after {
-	content: "]";
-}
-
-</style>
+---
