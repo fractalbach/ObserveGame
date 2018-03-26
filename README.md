@@ -1,20 +1,11 @@
-<center>
+
 The Observation Game!
 =====================
 
-Chris Achenbach
+https://fractalbach.github.io/ObserveGame/
 
-26 March 2018
+The Observation Game is a game that can be played anywhere in the world, at almost any time. All you need is a brain and some creativity.
 
-</center>
-
-------------------------------------------------------------------------
-
-<abstract> **Summary**: The Observation Game is a game that can be played anywhere in the world, at almost any time. All you need is a brain and some creativity.
-
-</abstract>
-
-------------------------------------------------------------------------
 
 Why play?
 ---------
